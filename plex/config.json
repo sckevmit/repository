@@ -1,9 +1,9 @@
 {
   "name": "Plex Media Server",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
-  "url": "https://github.com/hassio-addons/addon-plex",
+  "url": "https://github.com/sckevmit/addon-plex",
   "webui": "http://[HOST]:[PORT:32400]/web",
   "startup": "services",
   "arch": [
